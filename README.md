@@ -26,3 +26,11 @@ Or host it on your onw GitHub account
   
 ## Developer Notes
 * https://csscomb.herokuapp.com/online
+
+## Installation Instruction
+To launch the web app we need to install npm and compile the webpack. Then the generated dist directory will run as a web app.
+
+```shell
+npm install
+npx webpack
+```
